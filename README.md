@@ -14,13 +14,13 @@ Chatty, Angular ve Kotlin kullanılarak geliştirilmiş, hem web hem de mobil pl
 
 Chatty'nin web versiyonunu kullanmak için aşağıdaki linki ziyaret edebilirsiniz:
 
-[Chatty Web Uygulaması](#)
+[Chatty Web Uygulaması](https://github.com/ChatOrganizationSoftware)
 
 ## Mobil Uygulamayı İndirme
 
 Chatty'nin Android uygulamasının APK dosyasını indirmek için aşağıdaki adımları takip edebilirsiniz:
 
-1. APK indirme linkine tıklayın: [Chatty APK İndir](#)
+1. APK indirme linkine tıklayın: [Chatty APK İndir](https://github.com/ChatOrganizationSoftware/ChatApp/raw/main/app-debug.apk)
 2. İndirilen APK dosyasını açın ve yükleme talimatlarını takip edin.
 3. Cihazınızda "Bilinmeyen kaynaklardan uygulama yükleme" seçeneğini etkinleştirin, eğer gerekirse.
 4. Kurulum tamamlandıktan sonra Chatty uygulamasını açın ve hemen kullanmaya başlayın!
