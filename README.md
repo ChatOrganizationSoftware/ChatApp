@@ -1,34 +1,34 @@
-# Chatty Mesajlaşma Uygulaması
+# Chatty Messaging Application
 
-Chatty, Angular ve Kotlin kullanılarak geliştirilmiş, hem web hem de mobil platformlarda çalışan dinamik ve kullanıcı dostu bir mesajlaşma uygulamasıdır. Gerçek zamanlı mesajlaşma, grup sohbetleri, fotoğraf ve dosya paylaşımı gibi özellikler sunan Chatty, Firebase altyapısını kullanarak verimli veri yönetimi sağlar.
+Chatty is a dynamic and user-friendly messaging application developed using Angular and Kotlin, operating on both web and mobile platforms. Offering features such as real-time messaging, group chats, photo, and file sharing, Chatty utilizes Firebase infrastructure for efficient data management.
 
-## Özellikler
+## Features
 
-- **Kullanıcı Hesabı Oluşturma ve Yönetimi:** E-posta doğrulama ile güvenli giriş.
-- **Özel ve Grup Mesajlaşma:** Kolay ve hızlı iletişim.
-- **Multimedya Dosya Paylaşımı:** Fotoğraf, video ve belge paylaşımı.
-- **Gelişmiş Kullanıcı Ayarları:** Kişiselleştirilebilir tema seçenekleri, bildirim ayarları ve kullanıcı engelleme.
-- **Güvenlik ve Gizlilik:** Uçtan uca şifreleme ile korunan sohbetler.
+- **User Account Creation and Management:** Secure login with email verification.
+- **Private and Group Messaging:** Easy and fast communication.
+- **Multimedia File Sharing:** Share photos, videos, and documents.
+- **Advanced User Settings:** Customizable theme options, notification settings, and user blocking.
+- **Security and Privacy:** End-to-end encryption for protected conversations.
 
-## Web Uygulamasına Erişim
+## Web Application Access
 
-Chatty'nin web versiyonunu kullanmak için aşağıdaki linki ziyaret edebilirsiniz:
+To use the web version of Chatty, visit the following link:
 
-[Chatty Web Uygulaması](https://github.com/ChatOrganizationSoftware)
+[Chatty Web Application](#)
 
-## Mobil Uygulamayı İndirme
+## Mobile Application Download
 
-Chatty'nin Android uygulamasının APK dosyasını indirmek için aşağıdaki adımları takip edebilirsiniz:
+To download the Android application APK of Chatty, follow these steps:
 
-1. APK indirme linkine tıklayın: [Chatty APK İndir](#)
-2. İndirilen APK dosyasını açın ve yükleme talimatlarını takip edin.
-3. Cihazınızda "Bilinmeyen kaynaklardan uygulama yükleme" seçeneğini etkinleştirin, eğer gerekirse.
-4. Kurulum tamamlandıktan sonra Chatty uygulamasını açın ve hemen kullanmaya başlayın!
+1. Click the APK download link: [Download Chatty APK](#)
+2. Open the downloaded APK file and follow the installation instructions.
+3. Enable the "Install from Unknown Sources" option on your device, if required.
+4. Once the installation is complete, open the Chatty application and start using it immediately!
 
-## Katkıda Bulunma
+## Contributing
 
-Projemize katkıda bulunmak istiyorsanız, pull request gönderebilir veya sorunları ve önerileri GitHub üzerinden bize iletebilirsiniz.
+If you would like to contribute to our project, you can send pull requests or share issues and suggestions via GitHub.
 
-## Lisans
+## License
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+This project is licensed under the [MIT License](LICENSE).
