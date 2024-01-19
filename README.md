@@ -1,3 +1,9 @@
+<h1 align="center"> Chatty </h1> <br> 
+<p align="center">
+<img src = "chatty-images/Chatty.png" height=200> &nbsp;
+</p>
+
+
 # Chatty Messaging Application
 
 Chatty is a dynamic and user-friendly messaging application developed using Angular and Kotlin, operating on both web and mobile platforms. Offering features such as real-time messaging, group chats, photo, and file sharing, Chatty utilizes Firebase infrastructure for efficient data management.
