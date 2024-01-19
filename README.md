@@ -35,6 +35,7 @@ To download the **Android** application APK of Chatty, follow these steps:
 - TypeScript
 - HMTL / CSS
 - Kotlin
+- Firebase
  
 ## Contributors
 
