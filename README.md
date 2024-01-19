@@ -6,7 +6,6 @@ Chatty is a dynamic and user-friendly messaging application developed using Angu
 
 - **User Account Creation and Management:** Secure login with email verification.
 - **Private and Group Messaging:** Easy and fast communication.
-- **Multimedia File Sharing:** Share photos, videos, and documents.
 - **Advanced User Settings:** Customizable theme options, notification settings, and user blocking.
 - **Security and Privacy:** End-to-end encryption for protected conversations.
 
