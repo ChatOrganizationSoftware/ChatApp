@@ -1,6 +1,6 @@
 <h1 align="center"> Chatty Messaging Application </h1> <br> 
 <p align="center">
-<img src = "chatty-images/Chatty.png" height=400> &nbsp;
+<img src = "chatty-images/Chatty.png" height=200> &nbsp;
 </p>
 
 # Chatty Messaging Application
@@ -51,6 +51,7 @@ Tuğrul Yapıcı : [Tugrulfg](https://github.com/Tugrulfg) <br>
     <img src = "chatty-images/chatty-mobile-login-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-main-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-chat-page.jpg" height=400> &nbsp;
+    <img src = "chatty-images/chatty-mobile-profilee-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-settings-page.jpg" height=400> &nbsp;
 
 * Chatty Web <br><br>
