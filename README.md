@@ -22,7 +22,7 @@ To use the web version of Chatty, visit the following link:
 
 ## Mobile Application Download
 
-To download the Android application APK of Chatty, follow these steps:
+To download the **Android** application APK of Chatty, follow these steps:
 
 1. Click the APK download link: [Download Chatty APK](https://github.com/ChatOrganizationSoftware/ChatApp/raw/main/chatty-apk/chatty.apk)
 2. Open the downloaded APK file and follow the installation instructions.
