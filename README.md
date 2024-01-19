@@ -51,7 +51,7 @@ Tuğrul Yapıcı : [Tugrulfg](https://github.com/Tugrulfg) <br>
     <img src = "chatty-images/chatty-mobile-login-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-main-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-chat-page.jpg" height=400> &nbsp;
-    <img src = "chatty-images/chatty-mobile-profilee-page.jpg" height=400> &nbsp;
+    <img src = "chatty-images/chatty-mobile-profile-page.jpg" height=400> &nbsp;
     <img src = "chatty-images/chatty-mobile-settings-page.jpg" height=400> &nbsp;
 
 * Chatty Web <br><br>
