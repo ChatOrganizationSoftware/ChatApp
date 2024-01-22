@@ -16,7 +16,7 @@ Chatty is a dynamic and user-friendly messaging application developed using Angu
 
 ## Web Application Access
 
-To use the web version of Chatty, visit the following link:
+To use the web version of Chatty, sign up for the app on the mobile app and then visit the link below:
 
 [Chatty Web Application](https://chat-4ff93.web.app/)
 
