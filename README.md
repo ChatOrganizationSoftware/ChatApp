@@ -14,12 +14,6 @@ Chatty is a dynamic and user-friendly messaging application developed using Angu
 - **Advanced User Settings:** Customizable theme options, notification settings, and user blocking.
 - **Security and Privacy:** End-to-end encryption for protected conversations.
 
-## Web Application Access
-
-To use the web version of Chatty, sign up for the app on the mobile app and then visit the link below:
-
-[Chatty Web Application](https://chat-4ff93.web.app/)
-
 ## Mobile Application Download
 
 To download the **Android** application APK of Chatty, follow these steps:
@@ -28,6 +22,12 @@ To download the **Android** application APK of Chatty, follow these steps:
 2. Open the downloaded APK file and follow the installation instructions.
 3. Enable the "Install from Unknown Sources" option on your device, if required.
 4. Once the installation is complete, open the Chatty application and start using it immediately!
+
+## Web Application Access
+
+To use the web version of Chatty, sign up for the app on the mobile app and then visit the link below:
+
+[Chatty Web Application](https://chat-4ff93.web.app/)
 
 ## Technologies
 
